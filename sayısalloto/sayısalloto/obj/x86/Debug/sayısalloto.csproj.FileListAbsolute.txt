@@ -1,0 +1,16 @@
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\MainWindow.baml
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\MainWindow.g.cs
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\App.g.cs
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto_MarkupCompile.cache
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto.g.resources
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto.Form1.resources
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto.Properties.Resources.resources
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto.csproj.GenerateResource.Cache
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\bin\Debug\sayısalloto.exe
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\bin\Debug\sayısalloto.pdb
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto.exe
+c:\users\ogr_11\documents\visual studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\sayısalloto.pdb
+C:\Users\ogr_11\Documents\Visual Studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\Window1.baml
+C:\Users\ogr_11\Documents\Visual Studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\Window1.g.cs
+C:\Users\ogr_11\Documents\Visual Studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\Window2.baml
+C:\Users\ogr_11\Documents\Visual Studio 2010\Projects\sayısalloto\sayısalloto\obj\x86\Debug\Window2.g.cs

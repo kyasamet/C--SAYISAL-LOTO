@@ -1,0 +1,16 @@
+﻿<Window x:Class="sayısalloto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="175,101,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" />
+        <Label Content="Kullanıcı Adı:" Height="28" HorizontalAlignment="Left" Margin="92,101,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Parola:" Height="28" HorizontalAlignment="Left" Margin="123,152,0,0" Name="label2" VerticalAlignment="Top" />
+        <Button Content="GİRİŞ" Height="26" HorizontalAlignment="Left" Margin="198,197,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <PasswordBox Height="23" HorizontalAlignment="Left" Margin="175,157,0,0" Name="passwordBox1" VerticalAlignment="Top" Width="120" />
+        <Label Content="Created By Abdulsamet 'DholisCreative' Kaya" Height="28" HorizontalAlignment="Left" Margin="253,283,0,0" Name="label3" VerticalAlignment="Top" />
+        <Grid.Background>
+            <ImageBrush ImageSource="/sayısalloto;component/Images/Sayısal_Loto_Kapak-1.jpg" />
+        </Grid.Background>
+    </Grid>
+</Window>

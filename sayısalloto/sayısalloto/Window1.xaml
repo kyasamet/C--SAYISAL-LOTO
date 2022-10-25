@@ -1,0 +1,23 @@
+﻿<Window x:Class="sayısalloto.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="272" Width="624">
+    <Grid Width="607" Background="Black">
+        <Button Content="Dizi Değerlerini Üstte Listele" Height="23" HorizontalAlignment="Left" Margin="270,198,0,0" Name="button1" VerticalAlignment="Top" Width="265" Click="button1_Click" />
+        <ListBox Height="146" HorizontalAlignment="Left" Margin="313,30,0,0" Name="listBox1" VerticalAlignment="Top" Width="282" />
+        <Button Content="Diziye Üsteki Girilen Değeri Ata" Height="23" HorizontalAlignment="Left" Margin="25,198,0,0" Name="button2" VerticalAlignment="Top" Width="211" Click="button2_Click" IsCancel="True" IsEnabled="True" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="10,57,0,0" Name="textBox1" VerticalAlignment="Top" Width="85" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,57,410,0" Name="textBox2" VerticalAlignment="Top" Width="79" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="224,57,0,0" Name="textBox3" VerticalAlignment="Top" Width="83" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,141,0,0" Name="textBox4" VerticalAlignment="Top" Width="83" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="118,141,0,0" Name="textBox5" VerticalAlignment="Top" Width="79" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="224,141,0,0" Name="textBox6" VerticalAlignment="Top" Width="83" />
+        <Label Content="1.Satır 1.Sütun" Height="28" HorizontalAlignment="Left" Margin="10,30,0,0" Name="label1" VerticalAlignment="Top" Foreground="#FFE62430" />
+        <Label Content="1.Satır 2.Sütun" Height="28" HorizontalAlignment="Left" Margin="118,30,0,0" Name="label2" VerticalAlignment="Top" Foreground="#FFE62430" />
+        <Label Content="1.Satır 3.Sütun" Height="28" HorizontalAlignment="Left" Margin="224,30,0,0" Name="label3" VerticalAlignment="Top" Foreground="#FFE62430" />
+        <Label Content="2.Satır 1.Sütun" Height="28" HorizontalAlignment="Left" Margin="12,117,0,0" Name="label4" VerticalAlignment="Top" Foreground="#FFE62430" />
+        <Label Content="2.Satır 2.Sütun" Height="28" HorizontalAlignment="Left" Margin="118,117,0,0" Name="label5" VerticalAlignment="Top" Foreground="#FFE62430" />
+        <Label Content="2.Satır 3.Sütun" Height="28" HorizontalAlignment="Left" Margin="224,117,0,0" Name="label6" VerticalAlignment="Top" Foreground="#FFE62430" />
+        <Button Content="İleri" Height="23" HorizontalAlignment="Left" Margin="520,0,0,0" Name="button3" VerticalAlignment="Top" Width="75" Click="button3_Click" />
+    </Grid>
+</Window>
